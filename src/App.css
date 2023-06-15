@@ -1,3 +1,7 @@
 #root {
-  background-color: #f2f2f2; /* Replace with your desired light color */
+  background-color: #ffe8df; /* Replace with your desired light color */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
